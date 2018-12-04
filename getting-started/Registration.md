@@ -1,0 +1,1 @@
+> *To register to become developer, go [here](https://fs12.formsite.com/HiRez/form48/secure_index.html) to register. If your application is accepted you will receive custom credentials to access the API.*
