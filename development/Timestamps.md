@@ -7,7 +7,7 @@ function timestamp()
 {
   return moment().utc().format("YYYYMMDDHHmmss");
 }
-``
+```
 
 ## PHP
 ### Using Carbon library
