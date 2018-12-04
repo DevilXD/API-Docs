@@ -21,3 +21,13 @@ look something like this:
 ```
 
 The `session_id` variable is the one you need the most, the other is just extra information that you could use if needed.
+
+As previously stated in the documenation earlier, if you rather use XML then you could switch `createsessionJson` for `createsessionXML` and the response will be in XML format and look something like this:
+```xml
+<Session xmlns="http://schemas.datacontract.org/2004/07/PaladinsApi" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <ret_msg>Approved</ret_msg>
+  <session_id>90C5CB0B953E4F299783F2E620BC60A1</session_id>
+  <timestamp>12/4/2018 10:56:44 AM</timestamp>
+</Session>
+
+```
